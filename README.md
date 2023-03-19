@@ -1,7 +1,7 @@
-# Python Discord Bot Template
+# Python | Project Follow System
 
 <p align="center">
-  <a href="https://github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/v/release/CodeHunter00/pts?display_name=tag&label=Release"></a>
+  <a href="https://github.com/CodeHunter00/pts/releases"><img src="https://img.shields.io/github/v/release/CodeHunter00/pts?display_name=tag&label=Release"></a>
   <a href="https://github.com/CodeHunter00/pts"><img src="https://img.shields.io/github/license/CodeHunter00/pts?color=critical&label=License"></a>
 </p>
 
