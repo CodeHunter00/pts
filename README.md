@@ -5,7 +5,6 @@
   <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/commits/main"><img src="https://img.shields.io/github/last-commit/kkrypt0nn/Python-Discord-Bot-Template"></a>
   <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/downloads/kkrypt0nn/Python-Discord-Bot-Template/total"></a>
   <a href="//github.com/CodeHunter00/pts/LICENSE.md"><img src="https://img.shields.io/github/license/CodeHunter00/pts></a>
-  <a href="//github.com/CodeHunter00/pts"><img src="https://img.shields.io/github/languages/code-size/CodeHunter00/pts"></a>
 </p>
 
 ## Built With
