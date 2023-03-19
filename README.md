@@ -1,2 +1,2 @@
-# pts
+# PTS
 Proje Takip Sistemi
