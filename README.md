@@ -11,4 +11,4 @@
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](pts/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md]CodeHunter00/pts/blob/main/LICENSE) file for details
